@@ -1,2 +1,2 @@
 # Using Git/Github 
-Practing using Git and Github along with VSCode
+Practicing using Git and Github along with VSCode
